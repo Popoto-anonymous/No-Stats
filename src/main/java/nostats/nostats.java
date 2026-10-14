@@ -4,12 +4,14 @@ import legend.game.inventory.EquipmentRegistryEvent;
 import legend.game.inventory.EquipmentTypes;
 import legend.game.inventory.GatherEquipmentTypesEvent;
 import legend.game.inventory.screens.ShopScreen;
+import legend.game.modding.events.gamestate.NewGameEvent;
 import legend.game.modding.events.inventory.ShopContentsEvent;
 import org.legendofdragoon.modloader.Mod;
 import org.legendofdragoon.modloader.events.EventListener;
 import org.legendofdragoon.modloader.registries.RegistryId;
 
 import static legend.core.GameEngine.EVENTS;
+import static legend.core.GameEngine.REGISTRIES;
 
 @Mod(id = nostats.MOD_ID, version = "^3.0.0")
 public class nostats {
@@ -21,6 +23,25 @@ public class nostats {
 
   public static RegistryId id(final String entryId) {
     return new RegistryId(MOD_ID, entryId);
+  }
+
+  @EventListener
+  public void newGame(final NewGameEvent event) {
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:broken_sword").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:tattered_bandana").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:punctured_armor").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:destroyed_shoes").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:tainted_armband").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:spear_shaft").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:dented_helm").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:rusty_armor").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:missing_greave").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:broken_signet").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:stringless_bow").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:filthy_scrunchie").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:dirty_clothes").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:stinky_socks").get());
+    event.gameState.equipment_1e8.add(REGISTRIES.equipment.getEntry("nostats:tarnished_ring").get());
   }
 
   @EventListener
