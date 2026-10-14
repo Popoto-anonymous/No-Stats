@@ -8,31 +8,31 @@ nostats.name=Detrimental Gear
 nostats.equipment.broken_sword.name=Broken Sword
 nostats.equipment.broken_sword.description=A broken sword.
 
-nostats.equipment.broken_sword_plus.name=Broken Sword+1
+nostats.equipment.broken_sword_plus.name=Broken Sword +1
 nostats.equipment.broken_sword_plus.description=A less broken\nsword.
 
 nostats.equipment.tattered_bandana.name=Tattered Bandana
 nostats.equipment.tattered_bandana.description=Basically a rag.
 
-nostats.equipment.tattered_bandana_plus.name=Tattered Bandana+1
+nostats.equipment.tattered_bandana_plus.name=Tattered Bandana +1
 nostats.equipment.tattered_bandana_plus.description=A magical rag?
 
 nostats.equipment.punctured_armor.name=Punctured Armor
 nostats.equipment.punctured_armor.description=Das a big hole.
 
-nostats.equipment.punctured_armor_plus.name=Punctured_armor+1
+nostats.equipment.punctured_armor_plus.name=Punctured Armor +1
 nostats.equipment.punctured_armor_plus.description=Maybe it has\nbenefits?
 
 nostats.equipment.destroyed_shoes.name=Destroyed Shoes
 nostats.equipment.destroyed_shoes.description=They've seen better\ndays.
 
-nostats.equipment.destroyed_shoes_plus.name=Destroyed Shoes+1
+nostats.equipment.destroyed_shoes_plus.name=Destroyed Shoes +1
 nostats.equipment.destroyed_shoes_plus.description=Almost better off\nbarefoot...
 
 nostats.equipment.tainted_armband.name=Tainted Armband
 nostats.equipment.tainted_armband.description=Bloodsoaked and\nrusty...
 
-nostats.equipment.tainted_armband_plus.name=Tainted Armband+1
+nostats.equipment.tainted_armband_plus.name=Tainted Armband +1
 nostats.equipment.tainted_armband_plus.description=A little cleaner.
 
     //LAVBERT
@@ -40,31 +40,31 @@ nostats.equipment.tainted_armband_plus.description=A little cleaner.
 nostats.equipment.spear_shaft.name=Spear Shaft
 nostats.equipment.spear_shaft.description=It's pretty short.
 
-nostats.equipment.spear_shaft_plus.name=Spear Shaft+1
+nostats.equipment.spear_shaft_plus.name=Spear Shaft +1
 nostats.equipment.spear_shaft_plus.description=Almost a real\nspear.
 
 nostats.equipment.dented_helm.name=Dented Helm
 nostats.equipment.dented_helm.description=That's a big\ndent.
 
-nostats.equipment.dented_helm_plus.name=Dented Helm+1
+nostats.equipment.dented_helm_plus.name=Dented Helm +1
 nostats.equipment.dented_helm_plus.description=At least the dent\nis smaller.
 
 nostats.equipment.rusty_armor.name=Rusty Armor
 nostats.equipment.rusty_armor.description=Tetanus galore.
 
-nostats.equipment.rusty_armor_plus.name=Rusty Armor+1
+nostats.equipment.rusty_armor_plus.name=Rusty Armor +1
 nostats.equipment.rusty_armor_plus.description=A little shinier.
 
 nostats.equipment.missing_greave.name=Missing Greave
 nostats.equipment.missing_greave.description=My sock's damp.
 
-nostats.equipment.missing_greave_plus.name=Missing Greave+1
+nostats.equipment.missing_greave_plus.name=Missing Greave +1
 nostats.equipment.missing_greave_plus.description=Still only one.
 
 nostats.equipment.broken_signet.name=Broken Signet
 nostats.equipment.broken_signet.description=Needs a new\chain.
 
-nostats.equipment.broken_signet_plus.name=Broken Signet+1
+nostats.equipment.broken_signet_plus.name=Broken Signet +1
 nostats.equipment.broken_signet_plus.description=Still needs some\nwork.
 
     //SHARANDA
@@ -72,19 +72,19 @@ nostats.equipment.broken_signet_plus.description=Still needs some\nwork.
 nostats.equipment.stringless_bow.name=Stringless Bow
 nostats.equipment.stringless_bow.description=Gotta find a\nstring.
 
-nostats.equipment.stringless_bow_plus.name=Stringless Bow+1
+nostats.equipment.stringless_bow_plus.name=Stringless Bow +1
 nostats.equipment.stringless_bow_plus.description=Still can't find\na string.
 
 nostats.equipment.filthy_scrunchie.name=Filthy Scrunchie
 nostats.equipment.filthy_scrunchie.description=Needs replacing.
 
-nostats.equipment.filthy_scrunchie_plus.name=Filthy Scrunchie+1
+nostats.equipment.filthy_scrunchie_plus.name=Filthy Scrunchie +1
 nostats.equipment.filthy_scrunchie_plus.description=This ones gross\nas well.
 
 nostats.equipment.dirty_clothes.name=Dirty Clothes
 nostats.equipment.dirty_clothes.description=Dirty form prison.
 
-nostats.equipment.dirty_clothes_plus.name=Dirty Clothes+1
+nostats.equipment.dirty_clothes_plus.name=Dirty Clothes +1
 nostats.equipment.dirty_clothes_plus.description=They never come\nclean...
 
 nostats.equipment.stinky_socks.name=Stinky Socks
@@ -96,39 +96,39 @@ nostats.equipment.stinky_socks_plus.description=Used to the\nsmell.
 nostats.equipment.tarnished_ring.name=Tarnished Ring
 nostats.equipment.tarnished_ring.description=Well worn...
 
-nostats.equipment.tarnished_ring_plus.name=Tarnished Ring+1
-nostats.equipment.tarnished_ring_plus.description=Well worn, but\n feels magical.
+nostats.equipment.tarnished_ring_plus.name=Tarnished Ring +1
+nostats.equipment.tarnished_ring_plus.description=Well worn, but\nfeels magical.
 
     //ROSE
 
 nostats.equipment.chipped_rapier.name=Chipped Rapier
 nostats.equipment.chipped_rapier.description=Surprisingly well\nkept.
 
-nostats.equipment.chipped_rapier_plus.name=Chipped Rapier+1
+nostats.equipment.chipped_rapier_plus.name=Chipped Rapier +1
 nostats.equipment.chipped_rapier_plus.description=Tiny ding in\nthe guard.
 
 nostats.equipment.worn_hairband.name=Worn Hairband
 nostats.equipment.worn_hairband.description=Loved forever.
 
-nostats.equipment.worn_hairband_plus.name=Worn Hairband+1
+nostats.equipment.worn_hairband_plus.name=Worn Hairband +1
 nostats.equipment.worn_hairband_plus.description=It was a gift.
 
 nostats.equipment.old_clothes.name=Old Clothes
 nostats.equipment.old_clothes.description=Really old.
 
-nostats.equipment.old_clothes_plus.name=Old Clothes+1
+nostats.equipment.old_clothes_plus.name=Old Clothes +1
 nostats.equipment.old_clothes_plus.description=Still old.
 
 nostats.equipment.wornout_boots.name=Worn-Out Boots
 nostats.equipment.wornout_boots.description=Well worn.
 
-nostats.equipment.wornout_boots_plus.name=Worn-Out Boots+1
+nostats.equipment.wornout_boots_plus.name=Worn-Out Boots +1
 nostats.equipment.wornout_boots_plus.description=From the olden\ndays.
 
 nostats.equipment.ancient_choker.name=Ancient Choker
 nostats.equipment.ancient_choker.description=A curse.
 
-nostats.equipment.ancient_choker_plus.name=Ancient Choker+1
+nostats.equipment.ancient_choker_plus.name=Ancient Choker +1
 nostats.equipment.ancient_choker_plus.description=Unbearable curse.
 
     //HASCHEL
@@ -142,7 +142,7 @@ nostats.equipment.bare_knuckles_plus.description=Hands REALLY hurt.
 nostats.equipment.ragged_headband.name=Ragged Headband
 nostats.equipment.ragged_headband.description=It's been 60 years.
 
-nostats.equipment.ragged_headband_plus.name=Ragged Headband+1
+nostats.equipment.ragged_headband_plus.name=Ragged Headband +1
 nostats.equipment.ragged_headband_plus.description=Was it 60 years?
 
 nostats.equipment.well_worn_gi.name=Well Worn Gi
@@ -168,13 +168,13 @@ nostats.equipment.lucky_charm_plus.description=Luckier than the\nlast one.
 nostats.equipment.headless_hammer.name=Headless Hammer
 nostats.equipment.headless_hammer.description=Just a stick.
 
-nostats.equipment.headless_hammer_plus.name=Headless Hammer+1
+nostats.equipment.headless_hammer_plus.name=Headless Hammer +1
 nostats.equipment.headless_hammer_plus.description=Bigger stick.
 
 nostats.equipment.frayed_hairbow.name=Frayed Hairbow
 nostats.equipment.frayed_hairbow.description=Like a bad\nhair day.
 
-nostats.equipment.frayed_hairbow_plus.name=Frayed Hairbow+1
+nostats.equipment.frayed_hairbow_plus.name=Frayed Hairbow +1
 nostats.equipment.frayed_hairbow_plus.description=More presentable.
 
 nostats.equipment.sweat_stained_top.name=Sweaty Top
@@ -186,7 +186,7 @@ nostats.equipment.sweat_stained_top_plus.description=Lots of life\nleft in this\
 nostats.equipment.torn_shoes.name=Torn Shoes
 nostats.equipment.torn_shoes.description=Too much dancin'.
 
-nostats.equipment.torn_shoes_plus.name=Torn Shoes+1
+nostats.equipment.torn_shoes_plus.name=Torn Shoes +1
 nostats.equipment.torn_shoes_plus.description=Less tears.
 
 nostats.equipment.aging_bell.name=Aging Bell
@@ -200,7 +200,7 @@ nostats.equipment.aging_bell_plus.description=Now there's two.
 nostats.equipment.club.name=Club
 nostats.equipment.club.description=The blade just\nfell off.
 
-nostats.equipment.club_plus.name=Club+1
+nostats.equipment.club_plus.name=Club +1
 nostats.equipment.club_plus.description=Bigger and thicker.
 
 nostats.equipment.faded_face_paint.name=Faded Face Paint
@@ -224,5 +224,5 @@ nostats.equipment.rotting_fur_boots_plus.description=Less stinky.
 nostats.equipment.brothers_memento.name=Brothers Memento
 nostats.equipment.brothers_memento.description=Brother's trophy.
 
-nostats.equipment.brothers_memento_plus.name=Brothers Memento+1
+nostats.equipment.brothers_memento_plus.name=Brothers Memento +1
 nostats.equipment.brothers_memento_plus.description=Bigger trophy.
